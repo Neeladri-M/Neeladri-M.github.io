@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Prime Numbers with Python
-image: "_/posts/finding-primes-title-img.png"
+image: "_posts/finding-primes-title-img.jpg"
 tags: [Python, Primes]
 ---
 
