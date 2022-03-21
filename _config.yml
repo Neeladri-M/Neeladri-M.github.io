@@ -23,7 +23,7 @@ avatar_image: /img/profile_pic_git.jpg
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/neeladri-mohapatra-a88b81111/" # Add your linkedln handle
-github: "https://github.com/Neeladri-M"  # Add your github handle
+github: "https://neeladri-m.github.io/"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
